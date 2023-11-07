@@ -1,2 +1,3 @@
 # THis command will print some text
-print('Hello world!')
+a = 'Hello world!'
+print(a)
